@@ -77,9 +77,11 @@ nav ul li a:hover{
 .course-name{
     font-weight: bold;
 }
-.courses li{
+.courses li, .courses li a{
     padding: 20px;
     font-size: 30px;
+    color: white;
+    text-decoration: none;
 }
 
 .courses li:hover{
