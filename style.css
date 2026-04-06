@@ -11,10 +11,10 @@
     justify-items: center;
     align-items: center;
     text-align: center;
-    padding: 5%;
-    font-size: 100px;
+    padding: 4%;
+    font-size: 60px;
     font-weight: bold;
-    height: 100px;
+    height: max-content;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
 }
