@@ -61,16 +61,16 @@ nav ul li a:hover{
     justify-items: center;
     align-items: center;
     text-align: center;
-    padding: 90px;
-    margin-top: 20px;
+    padding: 2%;
+    margin-top: 5px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 20px;
     background-color: rgb(53, 48, 48);
 }
 .table-wrap, tr, td{
-    border: 3px solid black;
-    padding: 35px;
+    border: 2px solid black;
+    padding: 20px;
     background-color: rgb(128, 116, 116);
     color: black;
 }
@@ -78,7 +78,6 @@ nav ul li a:hover{
     font-weight: bold;
 }
 .courses li, .courses li a{
-    padding: 20px;
     font-size: 30px;
     color: white;
     text-decoration: none;
