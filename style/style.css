@@ -89,7 +89,7 @@ nav ul li a:hover{
 }
 
 .form{
-    padding: 20px;
+    padding: 4%px;
     border: 2px solid black;
     border-radius: 20px;
     margin: 20px;
@@ -99,11 +99,11 @@ nav ul li a:hover{
 .form-group{
     padding: 20px;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .form-group input, .form-group select, .form-group textarea, .submit-button{
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .submit-button{
